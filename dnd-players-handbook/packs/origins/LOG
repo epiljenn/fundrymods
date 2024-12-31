@@ -1,0 +1,8 @@
+2024/12/30-21:49:16.088 1b64 Recovering log #186
+2024/12/30-21:49:16.090 1b64 Delete type=0 #186
+2024/12/30-21:49:16.090 1b64 Delete type=3 #184
+2024/12/30-21:53:28.100 5540 Level-0 table #191: started
+2024/12/30-21:53:28.100 5540 Level-0 table #191: 0 bytes OK
+2024/12/30-21:53:28.101 5540 Delete type=0 #189
+2024/12/30-21:53:28.102 5540 Manual compaction at level-0 from '!folders!2Bw096HjE0HyGMwM' @ 72057594037927935 : 1 .. '!items.effects!phbsptStonecunni.SAbuNo2AO3XXtkdv' @ 0 : 0; will stop at (end)
+2024/12/30-21:53:28.102 5540 Manual compaction at level-1 from '!folders!2Bw096HjE0HyGMwM' @ 72057594037927935 : 1 .. '!items.effects!phbsptStonecunni.SAbuNo2AO3XXtkdv' @ 0 : 0; will stop at (end)

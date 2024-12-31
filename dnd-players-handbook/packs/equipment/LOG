@@ -1,0 +1,8 @@
+2024/12/30-21:49:16.105 53a4 Recovering log #186
+2024/12/30-21:49:16.106 53a4 Delete type=0 #186
+2024/12/30-21:49:16.106 53a4 Delete type=3 #184
+2024/12/30-21:53:28.104 5540 Level-0 table #191: started
+2024/12/30-21:53:28.104 5540 Level-0 table #191: 0 bytes OK
+2024/12/30-21:53:28.105 5540 Delete type=0 #189
+2024/12/30-21:53:28.105 5540 Manual compaction at level-0 from '!folders!0qKr1rbesCSNE0MA' @ 72057594037927935 : 1 .. '!items.effects!phbagNet00000000.67ofG0FVqrrkAHKa' @ 0 : 0; will stop at (end)
+2024/12/30-21:53:28.105 5540 Manual compaction at level-1 from '!folders!0qKr1rbesCSNE0MA' @ 72057594037927935 : 1 .. '!items.effects!phbagNet00000000.67ofG0FVqrrkAHKa' @ 0 : 0; will stop at (end)
